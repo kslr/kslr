@@ -14,9 +14,54 @@ It secures your network connections and thus protects your privacy.</p>
 ## Related Links
  - [Website](https://www.v2fly.org/) and [First Time Usage](https://www.v2fly.org/guide/start.html)
  - Welcome to translate V2Ray via: **[Transifex](https://www.transifex.com/v2fly/public/)**
-## Guide
 
-See [our website](https://www.v2fly.org/) for more information.
+## Installation
+
+V2Ray is currently available and packaged for Debian/Ubuntu, Arch Linux, macOS, Windows. If you’re interested in packaging V2Ray for your distro, don’t hesitate to open an issue.
+
+
+### FHS-install-script
+_Maintainer: [@IceCodeNew](https://github.com/IceCodeNew)_
+
+```
+bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh)
+```
+
+### Docker
+_Maintainer wanted._
+
+```
+docker pull v2fly/v2fly-core
+```
+
+### Arch Linux
+_Maintainer: [@felixonmars](https://github.com/felixonmars)_
+
+```
+pacman -S v2ray
+```
+
+### Debian
+_Maintainer: [@rogers0](https://github.com/rogers0)_
+_Maintainer: [@ymshenyu](https://github.com/ymshenyu)_
+
+```
+coming soon
+```
+
+### macOS
+_Maintainer: [@kidonng](https://github.com/kidonng)_
+
+```
+brew install v2ray
+```
+
+### Windows
+_Maintainer: [@kidonng](https://github.com/kidonng)_
+
+```
+scoop install v2ray
+```
 
 ## License
 
