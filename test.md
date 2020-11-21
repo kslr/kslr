@@ -1,5 +1,5 @@
 <p align="center">
-<img width="210" height="210" align="left" style="float: left; margin: 0 10px 0 0;" src="https://i.imgur.com/KT8OBU3.png" alt="V2ray"/>
+<img width="180" height="180" align="left" style="float: left; margin: 0 10px 0 0;" src="https://i.imgur.com/KT8OBU3.png" alt="V2ray"/>
 </br>
 <h1>Project V</h1> 
 Project V is a set of network tools that help you to build your own computer network.
