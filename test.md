@@ -11,6 +11,10 @@ It secures your network connections and thus protects your privacy.</p>
 [![codebeat](https://goreportcard.com/badge/github.com/v2fly/v2ray-core)](https://goreportcard.com/report/github.com/v2fly/v2ray-core)
 [![Downloads](https://img.shields.io/github/downloads/v2fly/v2ray-core/total.svg)]()
 
+## Guide
+
+See [our website](https://www.v2fly.org/) for more information.
+
 ## License
 
 [The MIT License (MIT)](https://raw.githubusercontent.com/v2fly/v2ray-core/master/LICENSE)
