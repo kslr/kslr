@@ -60,6 +60,8 @@ _Maintainer: [@kidonng](https://github.com/kidonng)_
 
 ```
 scoop install v2ray
+or
+choco install v2ray
 ```
 
 ## License
