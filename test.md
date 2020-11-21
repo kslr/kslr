@@ -20,8 +20,8 @@ It secures your network connections and thus protects your privacy.</p>
 V2Ray binaries are directly available in {releases/latest} as well as some major distros' repositories, including Debian, Arch Linux, macOS (homebrew), etc. If you are willing to package V2Ray for other distros, you are also welcome to seek for help via our issues.
 
 [![Packaging status](https://repology.org/badge/vertical-allrepos/v2ray.svg)](https://repology.org/project/v2ray/versions)
-[![Packaging status](https://repology.org/badge/vertical-allrepos/v2ray-core.svg)](https://repology.org/project/v2ray-core/versions)
 [![Packaging status](https://repology.org/badge/vertical-allrepos/go:v2ray-core.svg)](https://repology.org/project/go:v2ray-core/versions)
+[![Packaging status](https://repology.org/badge/vertical-allrepos/v2ray-core.svg)](https://repology.org/project/v2ray-core/versions)
 
 ## License
 
