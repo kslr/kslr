@@ -42,8 +42,7 @@ pacman -S v2ray
 ```
 
 ### Debian
-_Maintainer: [@rogers0](https://github.com/rogers0)_
-_Maintainer: [@ymshenyu](https://github.com/ymshenyu)_
+_Maintainer: [@rogers0](https://github.com/rogers0) [@ymshenyu](https://github.com/ymshenyu)_
 
 ```
 coming soon
