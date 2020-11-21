@@ -1,8 +1,8 @@
 <div>
-<img width="190" height="210" align="left"  src="https://raw.githubusercontent.com/v2fly/v2fly-github-io/master/docs/.vuepress/public/readme-logo.png" alt="V2ray"/>
-</br>
+<img width="190" height="210" align="left"  src="https://raw.githubusercontent.com/v2fly/v2fly-github-io/master/docs/.vuepress/public/readme-logo.png" alt="V2Ray"/>
+<br>
 <h1>Project V</h1> 
-<p>Project V is a set of network tools that help you to build your own computer network.
+<p>Project V is a set of network tools that helps you to build your own computer network.
 It secures your network connections and thus protects your privacy.</p>
 </div>
 
@@ -12,12 +12,12 @@ It secures your network connections and thus protects your privacy.</p>
 [![Downloads](https://img.shields.io/github/downloads/v2fly/v2ray-core/total.svg)]()
 
 ## Related Links
- - [Website](https://www.v2fly.org/) and [First Time Usage](https://www.v2fly.org/guide/start.html)
+ - [Documentation](https://www.v2fly.org/) and [Newcomer's Instructions](https://www.v2fly.org/guide/start.html)
  - Welcome to translate V2Ray via: **[Transifex](https://www.transifex.com/v2fly/public/)**
 
 ## Installation
 
-V2Ray is currently available and packaged for Debian/Ubuntu, Arch Linux, macOS, Windows. If you’re interested in packaging V2Ray for your distro, don’t hesitate to open an issue.
+V2Ray binaries are directly available in {releases/latest} as well as some major distros' repositories, including Debian, Arch Linux, macOS (homebrew), etc. If you are willing to package V2Ray for other distros, you are also welcome to seek for help via our issues.
 
 
 ### FHS-install-script
@@ -28,35 +28,35 @@ bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/
 ```
 
 ### Docker
-_Maintainer wanted._
+_Maintainers wanted._
 
 ```
 docker pull v2fly/v2fly-core
 ```
 
 ### Arch Linux
-_Maintainer: [@felixonmars](https://github.com/felixonmars)_
+_Maintainers: [@felixonmars](https://github.com/felixonmars)_
 
 ```
 pacman -S v2ray
 ```
 
 ### Debian
-_Maintainer: [@rogers0](https://github.com/rogers0) [@ymshenyu](https://github.com/ymshenyu)_
+_Maintainers: [@rogers0](https://github.com/rogers0) [@ymshenyu](https://github.com/ymshenyu)_
 
 ```
 coming soon
 ```
 
 ### macOS
-_Maintainer: [@kidonng](https://github.com/kidonng)_
+_Maintainers: [@kidonng](https://github.com/kidonng)_
 
 ```
 brew install v2ray
 ```
 
 ### Windows
-_Maintainer: [@kidonng](https://github.com/kidonng)_
+_Maintainers: [@kidonng](https://github.com/kidonng)_
 
 ```
 scoop install v2ray
