@@ -1,7 +1,7 @@
-<div align="center">
+<div>
 <img width="210" height="210" align="left" style="float: left; margin: 100px 10px 0 0;" src="https://i.imgur.com/KT8OBU3.png" alt="V2ray"/>
 </br>
-<h1>Project V</h1> 
+<p style="">Project V</p> 
 Project V is a set of network tools that help you to build your own computer network.
 It secures your network connections and thus protects your privacy.
 </div>
