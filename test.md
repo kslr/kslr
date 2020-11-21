@@ -11,6 +11,9 @@ It secures your network connections and thus protects your privacy.</p>
 [![codebeat](https://goreportcard.com/badge/github.com/v2fly/v2ray-core)](https://goreportcard.com/report/github.com/v2fly/v2ray-core)
 [![Downloads](https://img.shields.io/github/downloads/v2fly/v2ray-core/total.svg)]()
 
+## Related Links
+ - [Website](https://www.v2fly.org/) and [First Time Usage](https://www.v2fly.org/guide/start.html)
+ - Welcome to translate V2Ray via: **[Transifex](https://www.transifex.com/v2fly/public/)**
 ## Guide
 
 See [our website](https://www.v2fly.org/) for more information.
