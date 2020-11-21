@@ -21,6 +21,7 @@ V2Ray binaries are directly available in {releases/latest} as well as some major
 
 [![Packaging status](https://repology.org/badge/vertical-allrepos/v2ray.svg)](https://repology.org/project/v2ray/versions)
 [![Packaging status](https://repology.org/badge/vertical-allrepos/v2ray-core.svg)](https://repology.org/project/v2ray-core/versions)
+[![Packaging status](https://repology.org/badge/vertical-allrepos/go:v2ray-core.svg)](https://repology.org/project/go:v2ray-core/versions)
 
 ## License
 
